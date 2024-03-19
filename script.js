@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function acciojob() {
- alert(acciojob.name)	
+function functionName() {
+ alert(functionName.name)	
 }
-acciojob()
+functionName()
